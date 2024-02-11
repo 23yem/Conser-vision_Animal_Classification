@@ -1,3 +1,7 @@
 .env
 test_features.zip
 train_features.zip
+test.tfrecord
+test_values.tfrecord
+valid.tfrecord
+train.tfrecord
